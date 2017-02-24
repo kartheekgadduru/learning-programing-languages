@@ -9,6 +9,6 @@ A fragment is a modular container within our activity
 Read about Fragment and PlaceholderFragment.
 create a new layout name it as list_item_forecast and root element as TextView,give a Id for it.
 Read about ScrollView and LinearView and RecycledView
-Opent the fragement_main.xml add a ListView  and give a Id for it
+Open the fragement_main.xml add a ListView  and give a Id for it
 
 
